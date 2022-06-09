@@ -3,7 +3,7 @@ body {
     color: aliceblue;
     text-align: center;
     font-family: monospace, monaco;
-    cursor: progress;
+    cursor: progress; /*no your page is not loading just the cursor*/
 }
 
 img {
@@ -17,8 +17,9 @@ img {
     margin-left: 500px;
     margin-right: 500px;
 }
-
+/* unsure how to center text on sides without using margins (is there a better fix?) */
 .circle {
-    margin-left: 900px;
+    margin-left: 900px; 
     margin-right: 880px;
 }
+/*was unsure how to move bulletpoints attached to unordered list so made a weird fix */
