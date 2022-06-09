@@ -1,3 +1,24 @@
 body {
-    background-color: aqua;
+    background-color: brown;
+    color: aliceblue;
+    text-align: center;
+    font-family: monospace, monaco;
+    cursor: progress;
+}
+
+img {
+    border-radius: 20px;
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+}
+
+#long-text {
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.circle {
+    margin-left: 900px;
+    margin-right: 880px;
 }
